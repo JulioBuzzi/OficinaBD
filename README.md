@@ -7,4 +7,4 @@
 
 ## Descrição
 
-Este projeto foi desenvolvido para a oficina de banco de dados como parte do trabalho acadêmico. O objetivo deste projeto é salvar os projetos dos 5 dias de oficina.
+Este projeto foi desenvolvido para a oficina de banco de dados como parte do trabalho acadêmico. O objetivo deste projeto é salvar os códigos dos 5 dias de oficina.
